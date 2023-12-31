@@ -1,4 +1,3 @@
-![image](https://github.com/Rishi01Prince/Green-Earth/assets/117525650/43930966-5acc-4e0b-8e65-eb9f61d1bf8e)
 # Green Earth Project
 Link : https://rishi01prince.github.io/Green-Earth/
 ## Overview
@@ -76,3 +75,14 @@ The website uses custom styles to create a visually appealing and user-friendly 
 ---
 
 Feel free to customize this template further based on your project's specific details and styling preferences. Include any additional information that would be helpful for contributors and users.
+
+
+## Visuail View :-
+
+![1](https://github.com/Rishi01Prince/Green-Earth/assets/117525650/9449539f-ace5-4c56-a820-aa62e62d9e12)
+![2](https://github.com/Rishi01Prince/Green-Earth/assets/117525650/dbf2be50-5291-4f41-9757-1d3290d58161)
+![3](https://github.com/Rishi01Prince/Green-Earth/assets/117525650/d94cd41b-057e-4c0a-8d6f-431076af0db6)
+![4](https://github.com/Rishi01Prince/Green-Earth/assets/117525650/98e82de7-1bd3-4f72-9d22-0e98eda004e2)
+![5](https://github.com/Rishi01Prince/Green-Earth/assets/117525650/f67246d6-a047-453b-935b-3b82cacd319b)
+
+
